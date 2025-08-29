@@ -25,8 +25,5 @@ The flag is displayed as:
 - A green rectangle with a 3:5 ratio.
 - A red disc positioned slightly to the left of center.
 
-## Screenshot
-(You can add a screenshot of the rendered flag here.)
-
 ---
 Made with ❤️ using **HTML & CSS** by Asadul Haque Shihab and ChatGPT.
